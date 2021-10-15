@@ -1,0 +1,8 @@
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.deps.json
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.AssemblyInfo.cs
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Dominio\obj\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb

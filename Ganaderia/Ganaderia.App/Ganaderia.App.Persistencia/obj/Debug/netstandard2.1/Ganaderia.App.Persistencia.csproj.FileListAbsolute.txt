@@ -1,0 +1,11 @@
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.AssemblyInfo.cs
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.deps.json
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.dll
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\bin\Debug\netstandard2.1\Ganaderia.App.Dominio.pdb
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.csproj.CopyComplete
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.dll
+C:\Users\Grupo\OneDrive\Escritorio\Grupo4\Ganaderia\Ganaderia.App\Ganaderia.App.Persistencia\obj\Debug\netstandard2.1\Ganaderia.App.Persistencia.pdb
