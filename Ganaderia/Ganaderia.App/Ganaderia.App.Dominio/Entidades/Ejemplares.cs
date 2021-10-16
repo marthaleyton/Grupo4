@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-
+//permitir git
 namespace Ganaderia.App.Dominio
 {
     public class Ejemplares
